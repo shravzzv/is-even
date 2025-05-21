@@ -1,5 +1,5 @@
 {
-  "name": "is-even",
+  "name": "@shravzzv/is-even",
   "version": "1.0.0",
   "description": "A tiny utility module that checks if a number is even.",
   "main": "index.js",

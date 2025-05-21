@@ -1,0 +1,35 @@
+{
+  "name": "is-even",
+  "version": "1.0.0",
+  "description": "A tiny utility module that checks if a number is even.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "is-even",
+    "even",
+    "odd",
+    "number-utility",
+    "math",
+    "javascript",
+    "validation",
+    "modulus",
+    "numeric"
+  ],
+  "author": "Sai Shravan <shravzzv@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shravzzv/is-even.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shravzzv/is-even/issues"
+  },
+  "homepage": "https://github.com/shravzzv/is-even#readme"
+}
